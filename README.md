@@ -3,6 +3,8 @@ SnepServ - Furniture m3
 
 This mod makes it so that items that give house XP other than lights (Due to game limitation would stop them being used outside) or rugs (They already consume floor space) will use up an amount of the room m3 that is available, this is intended to add some additional realism to the game so that rooms are not crammed full with no ability to move in them.
 
+Copy the respective Normal or Hard folder into Mods\UserCode\ so you end up with a folder like Mods\UserCode\Furniture-m3Normal
+
 Two versions of the mod currently exist Normal and hard (formerly called evil) with the below stats on normal furniture with Hard then being a 50% increase, the stats are to roughly give space for the physical item then your character to be in the area around them)
 
 - Ashlar Small Fountain 8m3
