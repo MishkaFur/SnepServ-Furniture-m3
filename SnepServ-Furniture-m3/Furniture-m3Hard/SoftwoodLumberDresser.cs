@@ -8,7 +8,7 @@
     [RequireComponent(typeof(RoomRequirementsComponent))]
     [RequireRoomContainment]
     [RequireRoomVolume(18)] 
-    public partial class SoftwoodLumberDreserObject
+    public partial class SoftwoodLumberDresserObject
     {
 
     }
