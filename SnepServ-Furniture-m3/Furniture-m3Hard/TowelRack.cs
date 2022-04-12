@@ -7,7 +7,7 @@
 
     [RequireComponent(typeof(RoomRequirementsComponent))]
     [RequireRoomContainment]
-    [RequireRoomVolume(6)] 
+    [RequireRoomVolume(11)] 
     public partial class TowelRackObject
     {
 

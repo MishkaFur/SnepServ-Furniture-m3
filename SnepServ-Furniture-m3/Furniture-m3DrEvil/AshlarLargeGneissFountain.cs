@@ -7,8 +7,8 @@
 
     [RequireComponent(typeof(RoomRequirementsComponent))]
     [RequireRoomContainment]
-    [RequireRoomVolume(7)] 
-    public partial class TowelRackObject
+    [RequireRoomVolume(96)] 
+    public partial class AshlarLargeGneissFountainObject
     {
 
     }

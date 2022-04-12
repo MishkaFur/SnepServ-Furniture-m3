@@ -1,4 +1,4 @@
-﻿namespace Eco.Mods.TechTree
+﻿Is namespace Eco.Mods.TechTree
 {
 
     using Eco.Gameplay.Components;
@@ -7,8 +7,8 @@
 
     [RequireComponent(typeof(RoomRequirementsComponent))]
     [RequireRoomContainment]
-    [RequireRoomVolume(7)] 
-    public partial class TowelRackObject
+    [RequireRoomVolume(20)] 
+    public partial class AshlarGneissTableObject
     {
 
     }
