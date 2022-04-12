@@ -1,4 +1,4 @@
-﻿Is namespace Eco.Mods.TechTree
+﻿namespace Eco.Mods.TechTree
 {
 
     using Eco.Gameplay.Components;
